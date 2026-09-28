@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+pydantic
+wikipedia>=1.4.0
+streamlit>=1.40.0
